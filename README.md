@@ -4,10 +4,10 @@
 example folder plan
 
 
-docker > install_commands
-         install_with_terraform
-         install_with_cf
-         cheat_sheet
+docker > install_commands/
+         install_with_terraform/
+         install_with_cf/
+         cheat_sheet/
          ...
 
 
