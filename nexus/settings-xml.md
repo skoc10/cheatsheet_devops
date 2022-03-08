@@ -1,3 +1,4 @@
+```
 <settings>
   <mirrors>
     <mirror>
@@ -42,3 +43,4 @@
     </server>
   </servers>
 </settings>
+```
