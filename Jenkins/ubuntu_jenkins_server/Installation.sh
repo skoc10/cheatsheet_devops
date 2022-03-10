@@ -24,3 +24,7 @@ http://localhost:8080
 $ sudo service jenkins restart
 $ sudo service jenkins stop
 $ sudo service jenkins start
+
+
+
+sudo usermod -s /bin/bash jenkins
