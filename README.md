@@ -13,18 +13,18 @@ docker > install_commands/
 
 
 
-C8199- Tomas        =>  Docker
+Tomas        =>  Docker
 
-C9104- Hüseyin      =>  Ansible
+Hüseyin      =>  Ansible
 
-C9105- Samet        =>  Kubernetes
+Samet        =>  Kubernetes
 
-C9157- Alp          =>  Maven-Nexus
+Alp          =>  Maven-Nexus
 
-C9176- John D.      =>  Terraform
+John D.      =>  Terraform
 
-C9215- Selman       =>  Jenkins
+Selman       =>  Jenkins
 
-C9242- Murat        =>  Linux
+Murat        =>  Linux
 
-C9322- Yasin        =>  Prometheus-Grafana
+Yasin        =>  Prometheus-Grafana
